@@ -1,5 +1,15 @@
 [
     {
+        "key": "leaguespartanExtrabold",
+        "name": "LeagueSpartan-ExtraBold",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/LeagueSpartan-ExtraBold.ttf"
+    },
+    {
+        "key": "leaguespartanBlack",
+        "name": "LeagueSpartan-Black",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/LeagueSpartan-Black.ttf"
+    },
+    {
         "key": "kingred",
         "name": "kingred",
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/kingred.otf"
