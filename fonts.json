@@ -35,6 +35,16 @@
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/BrittanySignature.ttf"
     },
     {
+        "key": "leaguegothicRegularVariablefontWdth",
+        "name": "LeagueGothic-Regular-VariableFont_wdth",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/LeagueGothic-Regular-VariableFont_wdth.ttf"
+    },
+    {
+        "key": "leaguegothicRegular",
+        "name": "LeagueGothic-Regular",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/LeagueGothic-Regular.ttf"
+    },
+    {
         "key": "pptelegrafUltrabold",
         "name": "PPTelegraf-Ultrabold",
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/PPTelegraf-Ultrabold.otf"
@@ -43,6 +53,11 @@
         "key": "nowBold",
         "name": "Now-Bold",
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Now-Bold.otf"
+    },
+    {
+        "key": "lavishlyyoursRegular",
+        "name": "LavishlyYours-Regular",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/LavishlyYours-Regular.ttf"
     },
     {
         "key": "tanNimbus",
