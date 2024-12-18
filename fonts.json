@@ -60,6 +60,11 @@
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/LeagueGothic-Regular.ttf"
     },
     {
+        "key": "montserratExtrabold",
+        "name": "Montserrat-ExtraBold",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Montserrat-ExtraBold.ttf"
+    },
+    {
         "key": "pptelegrafUltrabold",
         "name": "PPTelegraf-Ultrabold",
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/PPTelegraf-Ultrabold.otf"
@@ -103,6 +108,11 @@
         "key": "opensauceoneBlack",
         "name": "OpenSauceOne-Black",
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/OpenSauceOne-Black.ttf"
+    },
+    {
+        "key": "montserratMedium",
+        "name": "Montserrat-Medium",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Montserrat-Medium.ttf"
     },
     {
         "key": "opensauceoneBold",
