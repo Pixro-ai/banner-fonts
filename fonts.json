@@ -5,14 +5,19 @@
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/kingred.otf"
     },
     {
-        "key": "ppgatwickBold",
-        "name": "PPGatwick-Bold",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/PPGatwick-Bold.otf"
+        "key": "pptelegrafRegular",
+        "name": "PPTelegraf-Regular",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/PPTelegraf-Regular.otf"
     },
     {
-        "key": "opensauceoneExtrabold",
-        "name": "OpenSauceOne-ExtraBold",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/OpenSauceOne-ExtraBold.ttf"
+        "key": "zingrustlh1demoFill",
+        "name": "ZingRustLH1Demo-Fill",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/ZingRustLH1Demo-Fill.otf"
+    },
+    {
+        "key": "pptelegrafUltrabold",
+        "name": "PPTelegraf-Ultrabold",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/PPTelegraf-Ultrabold.otf"
     },
     {
         "key": "nowBold",
@@ -20,14 +25,9 @@
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Now-Bold.otf"
     },
     {
-        "key": "opensauceoneBold",
-        "name": "OpenSauceOne-Bold",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/OpenSauceOne-Bold.ttf"
-    },
-    {
-        "key": "pptelegrafUltrabold",
-        "name": "PPTelegraf-Ultrabold",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/PPTelegraf-Ultrabold.otf"
+        "key": "tanNimbus",
+        "name": "TAN-NIMBUS",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/TAN-NIMBUS.otf"
     },
     {
         "key": "zingrustdemoBase",
@@ -40,19 +40,9 @@
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Harmattan-Regular.ttf"
     },
     {
-        "key": "zingrustlh1demoFill",
-        "name": "ZingRustLH1Demo-Fill",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/ZingRustLH1Demo-Fill.otf"
-    },
-    {
-        "key": "norwester",
-        "name": "norwester",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/norwester.otf"
-    },
-    {
-        "key": "opensauceoneBlack",
-        "name": "OpenSauceOne-Black",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/OpenSauceOne-Black.ttf"
+        "key": "nowBlack",
+        "name": "Now-Black",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Now-Black.otf"
     },
     {
         "key": "zingrustd2demoBase",
@@ -60,18 +50,28 @@
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/ZingRustD2Demo-Base.otf"
     },
     {
-        "key": "nowBlack",
-        "name": "Now-Black",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Now-Black.otf"
+        "key": "opensauceoneBlack",
+        "name": "OpenSauceOne-Black",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/OpenSauceOne-Black.ttf"
     },
     {
-        "key": "pptelegrafRegular",
-        "name": "PPTelegraf-Regular",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/PPTelegraf-Regular.otf"
+        "key": "opensauceoneBold",
+        "name": "OpenSauceOne-Bold",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/OpenSauceOne-Bold.ttf"
     },
     {
-        "key": "tanNimbus",
-        "name": "TAN-NIMBUS",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/TAN-NIMBUS.otf"
+        "key": "ppgatwickBold",
+        "name": "PPGatwick-Bold",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/PPGatwick-Bold.otf"
+    },
+    {
+        "key": "opensauceoneExtrabold",
+        "name": "OpenSauceOne-ExtraBold",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/OpenSauceOne-ExtraBold.ttf"
+    },
+    {
+        "key": "norwester",
+        "name": "norwester",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/norwester.otf"
     }
 ]
