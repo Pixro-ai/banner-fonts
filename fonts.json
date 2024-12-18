@@ -30,6 +30,11 @@
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/ZingRustLH1Demo-Fill.otf"
     },
     {
+        "key": "antonRegular",
+        "name": "Anton-Regular",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Anton-Regular.ttf"
+    },
+    {
         "key": "daydreamFree",
         "name": "daydream FREE",
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/daydream%20FREE.ttf"
