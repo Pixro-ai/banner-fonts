@@ -25,6 +25,11 @@
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/JotiOne-Regular.ttf"
     },
     {
+        "key": "poppinsExtrabold",
+        "name": "Poppins-ExtraBold",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Poppins-ExtraBold.ttf"
+    },
+    {
         "key": "zingrustlh1demoFill",
         "name": "ZingRustLH1Demo-Fill",
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/ZingRustLH1Demo-Fill.otf"
