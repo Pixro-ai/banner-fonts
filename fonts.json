@@ -45,6 +45,11 @@
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/LeagueGothic-Regular-VariableFont_wdth.ttf"
     },
     {
+        "key": "lexendmegaExtrabold",
+        "name": "LexendMega-ExtraBold",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/LexendMega-ExtraBold.ttf"
+    },
+    {
         "key": "leaguegothicRegular",
         "name": "LeagueGothic-Regular",
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/LeagueGothic-Regular.ttf"
