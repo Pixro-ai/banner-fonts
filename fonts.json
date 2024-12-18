@@ -105,6 +105,11 @@
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Now-Black.otf"
     },
     {
+        "key": "fontBrushBrushFont",
+        "name": "Font Brush - Brush Font",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Font%20Brush%20-%20Brush%20Font.ttf"
+    },
+    {
         "key": "zingrustd2demoBase",
         "name": "ZingRustD2Demo-Base",
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/ZingRustD2Demo-Base.otf"
