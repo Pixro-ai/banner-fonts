@@ -1,0 +1,77 @@
+[
+    {
+        "key": "kingred",
+        "name": "kingred",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/kingred.otf"
+    },
+    {
+        "key": "ppgatwickBold",
+        "name": "PPGatwick-Bold",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/PPGatwick-Bold.otf"
+    },
+    {
+        "key": "opensauceoneExtrabold",
+        "name": "OpenSauceOne-ExtraBold",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/OpenSauceOne-ExtraBold.ttf"
+    },
+    {
+        "key": "nowBold",
+        "name": "Now-Bold",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Now-Bold.otf"
+    },
+    {
+        "key": "opensauceoneBold",
+        "name": "OpenSauceOne-Bold",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/OpenSauceOne-Bold.ttf"
+    },
+    {
+        "key": "pptelegrafUltrabold",
+        "name": "PPTelegraf-Ultrabold",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/PPTelegraf-Ultrabold.otf"
+    },
+    {
+        "key": "zingrustdemoBase",
+        "name": "ZingRustDemo-Base",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/ZingRustDemo-Base.otf"
+    },
+    {
+        "key": "harmattanRegular",
+        "name": "Harmattan-Regular",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Harmattan-Regular.ttf"
+    },
+    {
+        "key": "zingrustlh1demoFill",
+        "name": "ZingRustLH1Demo-Fill",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/ZingRustLH1Demo-Fill.otf"
+    },
+    {
+        "key": "norwester",
+        "name": "norwester",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/norwester.otf"
+    },
+    {
+        "key": "opensauceoneBlack",
+        "name": "OpenSauceOne-Black",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/OpenSauceOne-Black.ttf"
+    },
+    {
+        "key": "zingrustd2demoBase",
+        "name": "ZingRustD2Demo-Base",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/ZingRustD2Demo-Base.otf"
+    },
+    {
+        "key": "nowBlack",
+        "name": "Now-Black",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Now-Black.otf"
+    },
+    {
+        "key": "pptelegrafRegular",
+        "name": "PPTelegraf-Regular",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/PPTelegraf-Regular.otf"
+    },
+    {
+        "key": "tanNimbus",
+        "name": "TAN-NIMBUS",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/TAN-NIMBUS.otf"
+    }
+]
