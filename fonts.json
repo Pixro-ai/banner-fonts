@@ -1,23 +1,48 @@
 [
     {
+        "key": "nowBlack",
+        "name": "Now-Black",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Now-Black.otf"
+    },
+    {
+        "key": "opensauceoneBold",
+        "name": "OpenSauceOne-Bold",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/OpenSauceOne-Bold.ttf"
+    },
+    {
+        "key": "antonRegular",
+        "name": "Anton-Regular",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Anton-Regular.ttf"
+    },
+    {
+        "key": "montserratMedium",
+        "name": "Montserrat-Medium",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Montserrat-Medium.ttf"
+    },
+    {
+        "key": "zingrustlh1demoFill",
+        "name": "ZingRustLH1Demo-Fill",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/ZingRustLH1Demo-Fill.otf"
+    },
+    {
         "key": "leaguespartanExtrabold",
         "name": "LeagueSpartan-ExtraBold",
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/LeagueSpartan-ExtraBold.ttf"
     },
     {
-        "key": "leaguespartanBlack",
-        "name": "LeagueSpartan-Black",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/LeagueSpartan-Black.ttf"
+        "key": "opensauceoneBlack",
+        "name": "OpenSauceOne-Black",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/OpenSauceOne-Black.ttf"
     },
     {
-        "key": "kingred",
-        "name": "kingred",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/kingred.otf"
+        "key": "lexendmegaExtrabold",
+        "name": "LexendMega-ExtraBold",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/LexendMega-ExtraBold.ttf"
     },
     {
-        "key": "pptelegrafRegular",
-        "name": "PPTelegraf-Regular",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/PPTelegraf-Regular.otf"
+        "key": "nowBold",
+        "name": "Now-Bold",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Now-Bold.otf"
     },
     {
         "key": "jotioneRegular",
@@ -30,19 +55,14 @@
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Poppins-ExtraBold.ttf"
     },
     {
-        "key": "zingrustlh1demoFill",
-        "name": "ZingRustLH1Demo-Fill",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/ZingRustLH1Demo-Fill.otf"
+        "key": "opensauceoneExtrabold",
+        "name": "OpenSauceOne-ExtraBold",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/OpenSauceOne-ExtraBold.ttf"
     },
     {
-        "key": "antonRegular",
-        "name": "Anton-Regular",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Anton-Regular.ttf"
-    },
-    {
-        "key": "daydreamFree",
-        "name": "daydream FREE",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/daydream%20FREE.ttf"
+        "key": "pptelegrafRegular",
+        "name": "PPTelegraf-Regular",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/PPTelegraf-Regular.otf"
     },
     {
         "key": "brittanysignature",
@@ -50,44 +70,19 @@
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/BrittanySignature.ttf"
     },
     {
-        "key": "leaguegothicRegularVariablefontWdth",
-        "name": "LeagueGothic-Regular-VariableFont_wdth",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/LeagueGothic-Regular-VariableFont_wdth.ttf"
-    },
-    {
-        "key": "lexendmegaExtrabold",
-        "name": "LexendMega-ExtraBold",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/LexendMega-ExtraBold.ttf"
-    },
-    {
-        "key": "leaguegothicRegular",
-        "name": "LeagueGothic-Regular",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/LeagueGothic-Regular.ttf"
-    },
-    {
         "key": "montserratExtrabold",
         "name": "Montserrat-ExtraBold",
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Montserrat-ExtraBold.ttf"
     },
     {
-        "key": "pptelegrafUltrabold",
-        "name": "PPTelegraf-Ultrabold",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/PPTelegraf-Ultrabold.otf"
+        "key": "leaguespartanBlack",
+        "name": "LeagueSpartan-Black",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/LeagueSpartan-Black.ttf"
     },
     {
-        "key": "nowBold",
-        "name": "Now-Bold",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Now-Bold.otf"
-    },
-    {
-        "key": "lavishlyyoursRegular",
-        "name": "LavishlyYours-Regular",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/LavishlyYours-Regular.ttf"
-    },
-    {
-        "key": "tanNimbus",
-        "name": "TAN-NIMBUS",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/TAN-NIMBUS.otf"
+        "key": "zingrustd2demoBase",
+        "name": "ZingRustD2Demo-Base",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/ZingRustD2Demo-Base.otf"
     },
     {
         "key": "zingrustdemoBase",
@@ -100,34 +95,24 @@
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Harmattan-Regular.ttf"
     },
     {
-        "key": "nowBlack",
-        "name": "Now-Black",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Now-Black.otf"
+        "key": "lavishlyyoursRegular",
+        "name": "LavishlyYours-Regular",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/LavishlyYours-Regular.ttf"
     },
     {
-        "key": "fontBrushBrushFont",
-        "name": "Font Brush - Brush Font",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Font%20Brush%20-%20Brush%20Font.ttf"
+        "key": "daydreamFree",
+        "name": "daydream FREE",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/daydream%20FREE.ttf"
     },
     {
-        "key": "zingrustd2demoBase",
-        "name": "ZingRustD2Demo-Base",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/ZingRustD2Demo-Base.otf"
+        "key": "kingred",
+        "name": "kingred",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/kingred.otf"
     },
     {
-        "key": "opensauceoneBlack",
-        "name": "OpenSauceOne-Black",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/OpenSauceOne-Black.ttf"
-    },
-    {
-        "key": "montserratMedium",
-        "name": "Montserrat-Medium",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Montserrat-Medium.ttf"
-    },
-    {
-        "key": "opensauceoneBold",
-        "name": "OpenSauceOne-Bold",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/OpenSauceOne-Bold.ttf"
+        "key": "norwester",
+        "name": "norwester",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/norwester.otf"
     },
     {
         "key": "ppgatwickBold",
@@ -135,13 +120,28 @@
         "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/PPGatwick-Bold.otf"
     },
     {
-        "key": "opensauceoneExtrabold",
-        "name": "OpenSauceOne-ExtraBold",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/OpenSauceOne-ExtraBold.ttf"
+        "key": "fontBrushBrushFont",
+        "name": "Font Brush - Brush Font",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/Font%20Brush%20-%20Brush%20Font.ttf"
     },
     {
-        "key": "norwester",
-        "name": "norwester",
-        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/norwester.otf"
+        "key": "tanNimbus",
+        "name": "TAN-NIMBUS",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/TAN-NIMBUS.otf"
+    },
+    {
+        "key": "leaguegothicRegular",
+        "name": "LeagueGothic-Regular",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/LeagueGothic-Regular.ttf"
+    },
+    {
+        "key": "leaguegothicRegularVariablefontWdth",
+        "name": "LeagueGothic-Regular-VariableFont_wdth",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/LeagueGothic-Regular-VariableFont_wdth.ttf"
+    },
+    {
+        "key": "pptelegrafUltrabold",
+        "name": "PPTelegraf-Ultrabold",
+        "url": "https://raw.githubusercontent.com/Pixro-ai/banner-fonts/main/fonts/PPTelegraf-Ultrabold.otf"
     }
 ]
